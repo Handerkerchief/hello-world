@@ -1,2 +1,2 @@
 # hello-world
-Hello, My name is ALfred, i love to try out new things.
+Hello, My name is Alfred, i love to try out new things.
